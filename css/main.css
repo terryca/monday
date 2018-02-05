@@ -1,7 +1,12 @@
 body {
-    background-color: aqua;
+    background-color: lightgreen;
 }
 
 h1 {
+<<<<<<< HEAD
     color: white;
     }
+=======
+    color: #333;
+}
+>>>>>>> topography
